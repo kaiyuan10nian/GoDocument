@@ -4,3 +4,5 @@ Go开发文档
 
 2、[Go入门教程](2、Go入门教程.md)
 
+3、[Go Module学习教程](3、创建model.md)
+
